@@ -1,0 +1,38 @@
+Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
+1,United Kingdom,GBR,True,1595696,27504091,29099787,:gb:
+2,Sweden,SWE,True,14708768,12755111,27463879,:se:
+3,European Commission,EU,True,23322524,0,23322524,:eu:
+4,Germany,DEU,True,11559730,5468321,17028051,:de:
+5,Norway,NOR,True,2656882,13325735,15982617,:no:
+6,Denmark,DNK,True,0,9779237,9779237,:dk:
+7,Qatar,QAT,True,1142577,8000000,9142577,:qa:
+8,Netherlands,NLD,True,0,8027523,8027523,:nl:
+9,Canada,CAN,True,5856184,1443389,7299573,:ca:
+10,Belgium,BEL,True,0,6590909,6590909,:be:
+11,Ireland,IRL,True,439547,5926724,6366271,:ie:
+12,Australia,AUS,True,624126,5617140,6241266,:au:
+13,Switzerland,CHE,True,124975,5518764,5643739,:ch:
+14,Poland,POL,True,3179472,0,3179472,:pl:
+15,New Zealand,NZL,True,0,2985342,2985342,:nz:
+16,Spain,ESP,True,2837685,0,2837685,:es:
+17,Finland,FIN,True,0,2604167,2604167,:fi:
+18,Austria,AUT,True,2245394,294725,2540119,:at:
+19,France,FRA,True,1738123,585480,2323603,:fr:
+20,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
+21,Japan,JPN,True,1475000,0,1475000,:jp:
+22,Iceland,ISL,True,0,1254150,1254150,:is:
+23,Luxembourg,LUX,True,0,1137539,1137539,:lu:
+24,"Korea, Republic of",KOR,True,1000000,0,1000000,:kr:
+25,Turkey,TUR,True,390000,500000,890000,:tr:
+26,United States,USA,True,818000,0,818000,:us:
+27,Portugal,PRT,True,691671,0,691671,:pt:
+28,Estonia,EST,True,431500,161812,593312,:ee:
+29,Italy,ITA,True,578035,0,578035,:it:
+30,Jersey,JEY,False,401876,0,401876,:je:
+31,Greece,GRC,False,347088,0,347088,:gr:
+32,Bulgaria,BGR,False,92485,0,92485,:bg:
+33,Monaco,MCO,False,0,58754,58754,:mc:
+34,Private Contributions,PRI_CON,False,0,50000,50000,
+34,Singapore,SGP,False,0,50000,50000,:sg:
+36,Latvia,LVA,False,22297,0,22297,:lv:
+37,Philippines,PHL,False,10000,0,10000,:ph:
