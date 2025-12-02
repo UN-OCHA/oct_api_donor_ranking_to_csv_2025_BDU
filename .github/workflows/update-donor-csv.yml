@@ -1,0 +1,64 @@
+name: Update Donor CSV with Flags
+on:
+  schedule:
+    - cron: "0 6 * * *" # Runs daily at 06:00 UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch latest CSV from OCHA API
+        run: |
+          curl -L -o DonorRanking_2025_raw.csv \
+          "https://oct.unocha.org/api/OCHAOnline/GetDonorRanking.csv?Year=2025&MultiDonorFundsID=330&UNandOtherAgenciesID=330&PrivateDonationsID=330&ExcludeDonorsID=44&ProjectGroupID=192"
+
+      - name: Install dependencies
+        run: |
+          pip install pycountry pandas
+
+      - name: "Convert ISO3 to ISO2 and add :xx: flag codes"
+        run: |
+          python - << 'PY'
+          import pandas as pd
+          import pycountry
+
+          # Load the raw CSV
+          df = pd.read_csv('DonorRanking_2025_raw.csv')
+
+          # Convert ISO3 to ISO2, handle EU and Private Contributions
+          def iso3_to_iso2(code):
+              if code == 'EU':
+                  return 'EU'  # Datawrapper recognizes :eu:
+              if code == 'PRI_CON':
+                  return None  # No flag for Private Contributions
+              try:
+                  country = pycountry.countries.get(alpha_3=code)
+                  return country.alpha_2
+              except:
+                  return None
+
+          # Format for Datawrapper flags
+          def to_flag(code):
+              iso2 = iso3_to_iso2(code)
+              if iso2 is None:
+                  return ''
+              return f':{iso2.lower()}:'
+
+          # Add FlagCode column
+          df['FlagCode'] = df['CountryCode'].map(to_flag)
+
+          # Save processed CSV
+          df.to_csv('data_2025_flags.csv', index=False)
+          PY
+
+      - name: Commit and push updated CSV
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data_2025_flags.csv DonorRanking_2025_raw.csv
+          git commit -m "Update donor CSV with flag codes"
+          git push
