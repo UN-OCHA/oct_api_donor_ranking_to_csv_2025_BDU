@@ -1,7 +1,7 @@
 # 📊 OCHA Donor Ranking Automation
 
 This repository belongs to the CB Brand and Design Unit at OCHA.
-
+(December 2025)
 ---
 
 ## 🎯 Purpose
