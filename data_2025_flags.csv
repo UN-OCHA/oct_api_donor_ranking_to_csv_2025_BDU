@@ -2,7 +2,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 1,United Kingdom,GBR,True,1595696,27504091,29099787,:gb:
 2,Sweden,SWE,True,14708768,12755111,27463879,:se:
 3,European Commission,EU,True,23322524,0,23322524,:eu:
-4,Germany,DEU,True,11559730,5468321,17028051,:de:
+4,Germany,DEU,True,11604421,5468321,17072742,:de:
 5,Norway,NOR,True,2656882,13325735,15982617,:no:
 6,Denmark,DNK,True,0,9779237,9779237,:dk:
 7,Qatar,QAT,True,1142577,8000000,9142577,:qa:
