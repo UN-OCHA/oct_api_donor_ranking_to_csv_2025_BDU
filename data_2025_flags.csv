@@ -8,9 +8,9 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 7,Qatar,QAT,True,1142577,8000000,9142577,:qa:
 8,Netherlands,NLD,True,0,8027523,8027523,:nl:
 9,Canada,CAN,True,5856184,1443389,7299573,:ca:
-10,Belgium,BEL,True,0,6590909,6590909,:be:
-11,Ireland,IRL,True,439547,5926724,6366271,:ie:
-12,Australia,AUS,True,624126,5617140,6241266,:au:
+10,Australia,AUS,True,1213900,5617140,6831040,:au:
+11,Belgium,BEL,True,0,6590909,6590909,:be:
+12,Ireland,IRL,True,439547,5926724,6366271,:ie:
 13,Switzerland,CHE,True,124975,5518764,5643739,:ch:
 14,Poland,POL,True,3179472,0,3179472,:pl:
 15,New Zealand,NZL,True,0,2985342,2985342,:nz:

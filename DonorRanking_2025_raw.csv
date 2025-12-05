@@ -8,9 +8,9 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 7,"Qatar","QAT",true,1142577,8000000,9142577
 8,"Netherlands","NLD",true,0,8027523,8027523
 9,"Canada","CAN",true,5856184,1443389,7299573
-10,"Belgium","BEL",true,0,6590909,6590909
-11,"Ireland","IRL",true,439547,5926724,6366271
-12,"Australia","AUS",true,624126,5617140,6241266
+10,"Australia","AUS",true,1213900,5617140,6831040
+11,"Belgium","BEL",true,0,6590909,6590909
+12,"Ireland","IRL",true,439547,5926724,6366271
 13,"Switzerland","CHE",true,124975,5518764,5643739
 14,"Poland","POL",true,3179472,0,3179472
 15,"New Zealand","NZL",true,0,2985342,2985342
