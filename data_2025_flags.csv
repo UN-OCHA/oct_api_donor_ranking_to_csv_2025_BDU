@@ -19,13 +19,13 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 18,Austria,AUT,True,2245394,294725,2540119,:at:
 19,France,FRA,True,1738123,585480,2323603,:fr:
 20,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
-21,Japan,JPN,True,1475000,0,1475000,:jp:
+21,Japan,JPN,True,1895755,0,1895755,:jp:
 22,Iceland,ISL,True,0,1254150,1254150,:is:
 23,Luxembourg,LUX,True,0,1137539,1137539,:lu:
 24,"Korea, Republic of",KOR,True,1000000,0,1000000,:kr:
 25,Turkey,TUR,True,390000,500000,890000,:tr:
 26,United States,USA,True,818000,0,818000,:us:
-27,Portugal,PRT,True,691671,0,691671,:pt:
+27,Portugal,PRT,True,604966,0,604966,:pt:
 28,Estonia,EST,True,431500,161812,593312,:ee:
 29,Italy,ITA,True,578035,0,578035,:it:
 30,Jersey,JEY,False,401876,0,401876,:je:
