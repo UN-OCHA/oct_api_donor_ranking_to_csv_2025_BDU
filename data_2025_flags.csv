@@ -25,7 +25,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 24,"Korea, Republic of",KOR,True,1000000,0,1000000,:kr:
 25,Turkey,TUR,True,390000,500000,890000,:tr:
 26,United States,USA,True,818000,0,818000,:us:
-27,Portugal,PRT,True,604966,0,604966,:pt:
+27,Portugal,PRT,True,691671,0,691671,:pt:
 28,Estonia,EST,True,431500,161812,593312,:ee:
 29,Italy,ITA,True,578035,0,578035,:it:
 30,Jersey,JEY,False,401876,0,401876,:je:
@@ -34,5 +34,5 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 33,Monaco,MCO,False,0,58754,58754,:mc:
 34,Private Contributions,PRI_CON,False,0,50000,50000,
 34,Singapore,SGP,False,0,50000,50000,:sg:
-36,Latvia,LVA,False,22297,0,22297,:lv:
+36,Latvia,LVA,False,39678,0,39678,:lv:
 37,Philippines,PHL,False,10000,0,10000,:ph:
