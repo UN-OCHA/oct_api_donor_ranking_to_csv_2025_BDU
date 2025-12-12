@@ -10,29 +10,30 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 9,Canada,CAN,True,5856184,1443389,7299573,:ca:
 10,Australia,AUS,True,1213900,5617140,6831040,:au:
 11,Belgium,BEL,True,0,6590909,6590909,:be:
-12,Ireland,IRL,True,439547,5926724,6366271,:ie:
-13,Switzerland,CHE,True,124975,5518764,5643739,:ch:
-14,Poland,POL,True,3179472,0,3179472,:pl:
-15,New Zealand,NZL,True,0,2985342,2985342,:nz:
-16,Spain,ESP,True,2837685,0,2837685,:es:
-17,Finland,FIN,True,0,2604167,2604167,:fi:
-18,Austria,AUT,True,2245394,294725,2540119,:at:
-19,France,FRA,True,1738123,585480,2323603,:fr:
-20,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
-21,Japan,JPN,True,1895755,0,1895755,:jp:
-22,Iceland,ISL,True,0,1254150,1254150,:is:
-23,Luxembourg,LUX,True,0,1137539,1137539,:lu:
-24,"Korea, Republic of",KOR,True,1000000,0,1000000,:kr:
-25,Turkey,TUR,True,390000,500000,890000,:tr:
-26,United States,USA,True,818000,0,818000,:us:
-27,Portugal,PRT,True,691671,0,691671,:pt:
-28,Estonia,EST,True,431500,161812,593312,:ee:
-29,Italy,ITA,True,578035,0,578035,:it:
+12,Italy,ITA,True,6453476,0,6453476,:it:
+13,Ireland,IRL,True,439547,5926724,6366271,:ie:
+14,Switzerland,CHE,True,124975,5518764,5643739,:ch:
+15,Poland,POL,True,3179472,0,3179472,:pl:
+16,New Zealand,NZL,True,0,2985342,2985342,:nz:
+17,Spain,ESP,True,2837685,0,2837685,:es:
+18,Finland,FIN,True,0,2604167,2604167,:fi:
+19,Austria,AUT,True,2245394,294725,2540119,:at:
+20,France,FRA,True,1738123,585480,2323603,:fr:
+21,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
+22,Japan,JPN,True,1895755,0,1895755,:jp:
+23,Iceland,ISL,True,0,1254150,1254150,:is:
+24,Luxembourg,LUX,True,0,1137539,1137539,:lu:
+25,"Korea, Republic of",KOR,True,1000000,0,1000000,:kr:
+26,Turkey,TUR,True,390000,500000,890000,:tr:
+27,United States,USA,True,818000,0,818000,:us:
+28,Portugal,PRT,True,691671,0,691671,:pt:
+29,Estonia,EST,True,431500,161812,593312,:ee:
 30,Jersey,JEY,False,401876,0,401876,:je:
 31,Greece,GRC,False,347357,0,347357,:gr:
-32,Bulgaria,BGR,False,92485,0,92485,:bg:
-33,Monaco,MCO,False,0,58754,58754,:mc:
-34,Private Contributions,PRI_CON,False,0,50000,50000,
-34,Singapore,SGP,False,0,50000,50000,:sg:
-36,Latvia,LVA,False,39678,0,39678,:lv:
-37,Philippines,PHL,False,10000,0,10000,:ph:
+32,Malta,MLT,False,121668,0,121668,:mt:
+33,Bulgaria,BGR,False,92485,0,92485,:bg:
+34,Monaco,MCO,False,0,58754,58754,:mc:
+35,Private Contributions,PRI_CON,False,0,50000,50000,
+35,Singapore,SGP,False,0,50000,50000,:sg:
+37,Latvia,LVA,False,39678,0,39678,:lv:
+38,Philippines,PHL,False,10000,0,10000,:ph:

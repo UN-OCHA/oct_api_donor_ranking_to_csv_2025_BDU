@@ -10,29 +10,30 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 9,"Canada","CAN",true,5856184,1443389,7299573
 10,"Australia","AUS",true,1213900,5617140,6831040
 11,"Belgium","BEL",true,0,6590909,6590909
-12,"Ireland","IRL",true,439547,5926724,6366271
-13,"Switzerland","CHE",true,124975,5518764,5643739
-14,"Poland","POL",true,3179472,0,3179472
-15,"New Zealand","NZL",true,0,2985342,2985342
-16,"Spain","ESP",true,2837685,0,2837685
-17,"Finland","FIN",true,0,2604167,2604167
-18,"Austria","AUT",true,2245394,294725,2540119
-19,"France","FRA",true,1738123,585480,2323603
-20,"Saudi Arabia","SAU",true,1499985,499985,1999970
-21,"Japan","JPN",true,1895755,0,1895755
-22,"Iceland","ISL",true,0,1254150,1254150
-23,"Luxembourg","LUX",true,0,1137539,1137539
-24,"Korea, Republic of","KOR",true,1000000,0,1000000
-25,"Turkey","TUR",true,390000,500000,890000
-26,"United States","USA",true,818000,0,818000
-27,"Portugal","PRT",true,691671,0,691671
-28,"Estonia","EST",true,431500,161812,593312
-29,"Italy","ITA",true,578035,0,578035
+12,"Italy","ITA",true,6453476,0,6453476
+13,"Ireland","IRL",true,439547,5926724,6366271
+14,"Switzerland","CHE",true,124975,5518764,5643739
+15,"Poland","POL",true,3179472,0,3179472
+16,"New Zealand","NZL",true,0,2985342,2985342
+17,"Spain","ESP",true,2837685,0,2837685
+18,"Finland","FIN",true,0,2604167,2604167
+19,"Austria","AUT",true,2245394,294725,2540119
+20,"France","FRA",true,1738123,585480,2323603
+21,"Saudi Arabia","SAU",true,1499985,499985,1999970
+22,"Japan","JPN",true,1895755,0,1895755
+23,"Iceland","ISL",true,0,1254150,1254150
+24,"Luxembourg","LUX",true,0,1137539,1137539
+25,"Korea, Republic of","KOR",true,1000000,0,1000000
+26,"Turkey","TUR",true,390000,500000,890000
+27,"United States","USA",true,818000,0,818000
+28,"Portugal","PRT",true,691671,0,691671
+29,"Estonia","EST",true,431500,161812,593312
 30,"Jersey","JEY",false,401876,0,401876
 31,"Greece","GRC",false,347357,0,347357
-32,"Bulgaria","BGR",false,92485,0,92485
-33,"Monaco","MCO",false,0,58754,58754
-34,"Private Contributions","PRI_CON",false,0,50000,50000
-34,"Singapore","SGP",false,0,50000,50000
-36,"Latvia","LVA",false,39678,0,39678
-37,"Philippines","PHL",false,10000,0,10000
+32,"Malta","MLT",false,121668,0,121668
+33,"Bulgaria","BGR",false,92485,0,92485
+34,"Monaco","MCO",false,0,58754,58754
+35,"Private Contributions","PRI_CON",false,0,50000,50000
+35,"Singapore","SGP",false,0,50000,50000
+37,"Latvia","LVA",false,39678,0,39678
+38,"Philippines","PHL",false,10000,0,10000
