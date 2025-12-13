@@ -12,7 +12,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 11,Belgium,BEL,True,0,6590909,6590909,:be:
 12,Italy,ITA,True,6453476,0,6453476,:it:
 13,Ireland,IRL,True,439547,5926724,6366271,:ie:
-14,Switzerland,CHE,True,124975,5518764,5643739,:ch:
+14,Switzerland,CHE,True,249044,5518764,5767808,:ch:
 15,Poland,POL,True,3179472,0,3179472,:pl:
 16,New Zealand,NZL,True,0,2985342,2985342,:nz:
 17,Spain,ESP,True,2837685,0,2837685,:es:
