@@ -30,8 +30,8 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 29,Estonia,EST,True,431500,161812,593312,:ee:
 30,Jersey,JEY,False,401876,0,401876,:je:
 31,Greece,GRC,False,347357,0,347357,:gr:
-32,Malta,MLT,False,121668,0,121668,:mt:
-33,Bulgaria,BGR,False,92485,0,92485,:bg:
+32,Malta,MLT,False,121949,0,121949,:mt:
+33,Bulgaria,BGR,False,92619,0,92619,:bg:
 34,Monaco,MCO,False,0,58754,58754,:mc:
 35,Private Contributions,PRI_CON,False,0,50000,50000,
 35,Singapore,SGP,False,0,50000,50000,:sg:

@@ -30,8 +30,8 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 29,"Estonia","EST",true,431500,161812,593312
 30,"Jersey","JEY",false,401876,0,401876
 31,"Greece","GRC",false,347357,0,347357
-32,"Malta","MLT",false,121668,0,121668
-33,"Bulgaria","BGR",false,92485,0,92485
+32,"Malta","MLT",false,121949,0,121949
+33,"Bulgaria","BGR",false,92619,0,92619
 34,"Monaco","MCO",false,0,58754,58754
 35,"Private Contributions","PRI_CON",false,0,50000,50000
 35,"Singapore","SGP",false,0,50000,50000
