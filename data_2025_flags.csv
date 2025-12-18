@@ -12,17 +12,17 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 11,Australia,AUS,True,908001,5617140,6525141,:au:
 12,Italy,ITA,True,6453476,0,6453476,:it:
 13,Ireland,IRL,True,439547,5926724,6366271,:ie:
-14,Switzerland,CHE,True,249044,5518764,5767808,:ch:
+14,Switzerland,CHE,True,422958,5518764,5941722,:ch:
 15,Poland,POL,True,3179472,0,3179472,:pl:
 16,New Zealand,NZL,True,0,2985342,2985342,:nz:
 17,Spain,ESP,True,2837685,0,2837685,:es:
 18,Finland,FIN,True,0,2604167,2604167,:fi:
 19,Austria,AUT,True,2245394,294725,2540119,:at:
-20,France,FRA,True,1738123,585480,2323603,:fr:
+20,France,FRA,True,1760563,585480,2346043,:fr:
 21,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
 22,Japan,JPN,True,1895755,0,1895755,:jp:
-23,Iceland,ISL,True,0,1254150,1254150,:is:
-24,Luxembourg,LUX,True,0,1137539,1137539,:lu:
+23,Luxembourg,LUX,True,0,1724393,1724393,:lu:
+24,Iceland,ISL,True,0,1254150,1254150,:is:
 25,"Korea, Republic of",KOR,True,1000000,0,1000000,:kr:
 26,Turkey,TUR,True,390000,500000,890000,:tr:
 27,United States,USA,True,818000,0,818000,:us:
