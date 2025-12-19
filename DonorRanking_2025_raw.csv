@@ -13,17 +13,17 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 12,"Italy","ITA",true,6453476,0,6453476
 13,"Ireland","IRL",true,439547,5926724,6366271
 14,"Switzerland","CHE",true,422958,5518764,5941722
-15,"Poland","POL",true,3179472,0,3179472
-16,"New Zealand","NZL",true,0,2985342,2985342
-17,"Spain","ESP",true,2837685,0,2837685
-18,"Finland","FIN",true,0,2604167,2604167
-19,"Austria","AUT",true,2245394,294725,2540119
-20,"France","FRA",true,1760563,585480,2346043
-21,"Saudi Arabia","SAU",true,1499985,499985,1999970
-22,"Japan","JPN",true,1895755,0,1895755
-23,"Luxembourg","LUX",true,0,1724393,1724393
-24,"Iceland","ISL",true,0,1254150,1254150
-25,"Korea, Republic of","KOR",true,1000000,0,1000000
+15,"Korea, Republic of","KOR",true,1000000,4309024,5309024
+16,"Poland","POL",true,3179472,0,3179472
+17,"New Zealand","NZL",true,0,2985342,2985342
+18,"Spain","ESP",true,2837685,0,2837685
+19,"Finland","FIN",true,0,2604167,2604167
+20,"Austria","AUT",true,2245394,294725,2540119
+21,"France","FRA",true,1760563,585480,2346043
+22,"Saudi Arabia","SAU",true,1499985,499985,1999970
+23,"Japan","JPN",true,1895755,0,1895755
+24,"Luxembourg","LUX",true,0,1724393,1724393
+25,"Iceland","ISL",true,0,1254150,1254150
 26,"Turkey","TUR",true,390000,500000,890000
 27,"United States","USA",true,818000,0,818000
 28,"Portugal","PRT",true,691671,0,691671
@@ -31,9 +31,10 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 30,"Jersey","JEY",false,401876,0,401876
 31,"Greece","GRC",false,347357,0,347357
 32,"Malta","MLT",false,121949,0,121949
-33,"Bulgaria","BGR",false,92619,0,92619
-34,"Monaco","MCO",false,0,58754,58754
-35,"Private Contributions","PRI_CON",false,0,50000,50000
-35,"Singapore","SGP",false,0,50000,50000
-37,"Latvia","LVA",false,39678,0,39678
-38,"Philippines","PHL",false,10000,0,10000
+33,"Bulgaria","BGR",false,93148,0,93148
+34,"Cyprus","CYP",false,0,75567,75567
+35,"Monaco","MCO",false,0,58754,58754
+36,"Private Contributions","PRI_CON",false,0,50000,50000
+36,"Singapore","SGP",false,0,50000,50000
+38,"Latvia","LVA",false,37297,0,37297
+39,"Philippines","PHL",false,10000,0,10000

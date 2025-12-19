@@ -13,17 +13,17 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 12,Italy,ITA,True,6453476,0,6453476,:it:
 13,Ireland,IRL,True,439547,5926724,6366271,:ie:
 14,Switzerland,CHE,True,422958,5518764,5941722,:ch:
-15,Poland,POL,True,3179472,0,3179472,:pl:
-16,New Zealand,NZL,True,0,2985342,2985342,:nz:
-17,Spain,ESP,True,2837685,0,2837685,:es:
-18,Finland,FIN,True,0,2604167,2604167,:fi:
-19,Austria,AUT,True,2245394,294725,2540119,:at:
-20,France,FRA,True,1760563,585480,2346043,:fr:
-21,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
-22,Japan,JPN,True,1895755,0,1895755,:jp:
-23,Luxembourg,LUX,True,0,1724393,1724393,:lu:
-24,Iceland,ISL,True,0,1254150,1254150,:is:
-25,"Korea, Republic of",KOR,True,1000000,0,1000000,:kr:
+15,"Korea, Republic of",KOR,True,1000000,4309024,5309024,:kr:
+16,Poland,POL,True,3179472,0,3179472,:pl:
+17,New Zealand,NZL,True,0,2985342,2985342,:nz:
+18,Spain,ESP,True,2837685,0,2837685,:es:
+19,Finland,FIN,True,0,2604167,2604167,:fi:
+20,Austria,AUT,True,2245394,294725,2540119,:at:
+21,France,FRA,True,1760563,585480,2346043,:fr:
+22,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
+23,Japan,JPN,True,1895755,0,1895755,:jp:
+24,Luxembourg,LUX,True,0,1724393,1724393,:lu:
+25,Iceland,ISL,True,0,1254150,1254150,:is:
 26,Turkey,TUR,True,390000,500000,890000,:tr:
 27,United States,USA,True,818000,0,818000,:us:
 28,Portugal,PRT,True,691671,0,691671,:pt:
@@ -31,9 +31,10 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 30,Jersey,JEY,False,401876,0,401876,:je:
 31,Greece,GRC,False,347357,0,347357,:gr:
 32,Malta,MLT,False,121949,0,121949,:mt:
-33,Bulgaria,BGR,False,92619,0,92619,:bg:
-34,Monaco,MCO,False,0,58754,58754,:mc:
-35,Private Contributions,PRI_CON,False,0,50000,50000,
-35,Singapore,SGP,False,0,50000,50000,:sg:
-37,Latvia,LVA,False,39678,0,39678,:lv:
-38,Philippines,PHL,False,10000,0,10000,:ph:
+33,Bulgaria,BGR,False,93148,0,93148,:bg:
+34,Cyprus,CYP,False,0,75567,75567,:cy:
+35,Monaco,MCO,False,0,58754,58754,:mc:
+36,Private Contributions,PRI_CON,False,0,50000,50000,
+36,Singapore,SGP,False,0,50000,50000,:sg:
+38,Latvia,LVA,False,37297,0,37297,:lv:
+39,Philippines,PHL,False,10000,0,10000,:ph:
