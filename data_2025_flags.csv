@@ -28,11 +28,11 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 27,United States,USA,True,818000,0,818000,:us:
 28,Portugal,PRT,True,691671,0,691671,:pt:
 29,Estonia,EST,True,431500,161812,593312,:ee:
-30,Jersey,JEY,False,401876,0,401876,:je:
-31,Greece,GRC,False,347357,0,347357,:gr:
-32,Malta,MLT,False,121949,0,121949,:mt:
-33,Bulgaria,BGR,False,93148,0,93148,:bg:
-34,Cyprus,CYP,False,0,75567,75567,:cy:
+30,Cyprus,CYP,False,399058,75567,474625,:cy:
+31,Jersey,JEY,False,401876,0,401876,:je:
+32,Greece,GRC,False,347357,0,347357,:gr:
+33,Malta,MLT,False,121949,0,121949,:mt:
+34,Bulgaria,BGR,False,93148,0,93148,:bg:
 35,Monaco,MCO,False,0,58754,58754,:mc:
 36,Private Contributions,PRI_CON,False,0,50000,50000,
 36,Singapore,SGP,False,0,50000,50000,:sg:
