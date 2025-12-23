@@ -22,11 +22,11 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 21,France,FRA,True,1760563,585480,2346043,:fr:
 22,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
 23,Japan,JPN,True,1895755,0,1895755,:jp:
-24,Luxembourg,LUX,True,0,1724393,1724393,:lu:
+24,Luxembourg,LUX,True,0,1716913,1716913,:lu:
 25,Iceland,ISL,True,0,1254150,1254150,:is:
-26,Turkey,TUR,True,390000,500000,890000,:tr:
-27,United States,USA,True,818000,0,818000,:us:
-28,Portugal,PRT,True,691671,0,691671,:pt:
+26,Portugal,PRT,True,973363,0,973363,:pt:
+27,Turkey,TUR,True,390000,500000,890000,:tr:
+28,United States,USA,True,818000,0,818000,:us:
 29,Estonia,EST,True,431500,161812,593312,:ee:
 30,Cyprus,CYP,False,399058,75567,474625,:cy:
 31,Jersey,JEY,False,401876,0,401876,:je:
@@ -36,5 +36,5 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 35,Monaco,MCO,False,0,58754,58754,:mc:
 36,Private Contributions,PRI_CON,False,0,50000,50000,
 36,Singapore,SGP,False,0,50000,50000,:sg:
-38,Latvia,LVA,False,37297,0,37297,:lv:
+38,Latvia,LVA,False,39903,0,39903,:lv:
 39,Philippines,PHL,False,10000,0,10000,:ph:

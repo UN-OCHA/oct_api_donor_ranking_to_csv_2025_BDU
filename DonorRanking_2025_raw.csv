@@ -22,11 +22,11 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 21,"France","FRA",true,1760563,585480,2346043
 22,"Saudi Arabia","SAU",true,1499985,499985,1999970
 23,"Japan","JPN",true,1895755,0,1895755
-24,"Luxembourg","LUX",true,0,1724393,1724393
+24,"Luxembourg","LUX",true,0,1716913,1716913
 25,"Iceland","ISL",true,0,1254150,1254150
-26,"Turkey","TUR",true,390000,500000,890000
-27,"United States","USA",true,818000,0,818000
-28,"Portugal","PRT",true,691671,0,691671
+26,"Portugal","PRT",true,973363,0,973363
+27,"Turkey","TUR",true,390000,500000,890000
+28,"United States","USA",true,818000,0,818000
 29,"Estonia","EST",true,431500,161812,593312
 30,"Cyprus","CYP",false,399058,75567,474625
 31,"Jersey","JEY",false,401876,0,401876
@@ -36,5 +36,5 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 35,"Monaco","MCO",false,0,58754,58754
 36,"Private Contributions","PRI_CON",false,0,50000,50000
 36,"Singapore","SGP",false,0,50000,50000
-38,"Latvia","LVA",false,37297,0,37297
+38,"Latvia","LVA",false,39903,0,39903
 39,"Philippines","PHL",false,10000,0,10000
