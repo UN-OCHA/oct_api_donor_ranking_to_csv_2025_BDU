@@ -9,7 +9,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 8,Netherlands,NLD,True,0,8027523,8027523,:nl:
 9,Canada,CAN,True,5856184,1443389,7299573,:ca:
 10,Belgium,BEL,True,0,6590909,6590909,:be:
-11,Australia,AUS,True,908001,5617140,6525141,:au:
+11,Australia,AUS,True,908262,5617140,6525402,:au:
 12,Italy,ITA,True,6453476,0,6453476,:it:
 13,Ireland,IRL,True,439547,5926724,6366271,:ie:
 14,Switzerland,CHE,True,422958,5518764,5941722,:ch:
@@ -28,7 +28,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 27,Turkey,TUR,True,390000,500000,890000,:tr:
 28,United States,USA,True,818000,0,818000,:us:
 29,Estonia,EST,True,431500,161812,593312,:ee:
-30,Cyprus,CYP,False,399058,75567,474625,:cy:
+30,Cyprus,CYP,False,457622,75567,533189,:cy:
 31,Jersey,JEY,False,401876,0,401876,:je:
 32,Greece,GRC,False,347357,0,347357,:gr:
 33,Malta,MLT,False,121949,0,121949,:mt:

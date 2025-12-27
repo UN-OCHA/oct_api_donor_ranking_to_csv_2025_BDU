@@ -9,7 +9,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 8,"Netherlands","NLD",true,0,8027523,8027523
 9,"Canada","CAN",true,5856184,1443389,7299573
 10,"Belgium","BEL",true,0,6590909,6590909
-11,"Australia","AUS",true,908001,5617140,6525141
+11,"Australia","AUS",true,908262,5617140,6525402
 12,"Italy","ITA",true,6453476,0,6453476
 13,"Ireland","IRL",true,439547,5926724,6366271
 14,"Switzerland","CHE",true,422958,5518764,5941722
@@ -28,7 +28,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 27,"Turkey","TUR",true,390000,500000,890000
 28,"United States","USA",true,818000,0,818000
 29,"Estonia","EST",true,431500,161812,593312
-30,"Cyprus","CYP",false,399058,75567,474625
+30,"Cyprus","CYP",false,457622,75567,533189
 31,"Jersey","JEY",false,401876,0,401876
 32,"Greece","GRC",false,347357,0,347357
 33,"Malta","MLT",false,121949,0,121949
