@@ -21,7 +21,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 20,Austria,AUT,True,2245394,294725,2540119,:at:
 21,France,FRA,True,1760563,585480,2346043,:fr:
 22,Saudi Arabia,SAU,True,1499985,499985,1999970,:sa:
-23,Japan,JPN,True,1895755,0,1895755,:jp:
+23,Japan,JPN,True,1695000,200755,1895755,:jp:
 24,Luxembourg,LUX,True,0,1716913,1716913,:lu:
 25,Iceland,ISL,True,0,1254150,1254150,:is:
 26,Portugal,PRT,True,973363,0,973363,:pt:
