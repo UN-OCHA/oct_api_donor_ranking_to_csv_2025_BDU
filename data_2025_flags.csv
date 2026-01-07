@@ -24,9 +24,9 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 23,Japan,JPN,True,1695000,200755,1895755,:jp:
 24,Luxembourg,LUX,True,0,1716913,1716913,:lu:
 25,Iceland,ISL,True,0,1254150,1254150,:is:
-26,Portugal,PRT,True,973363,0,973363,:pt:
-27,Turkey,TUR,True,390000,500000,890000,:tr:
-28,United States,USA,True,818000,0,818000,:us:
+26,Turkey,TUR,True,390000,500000,890000,:tr:
+27,United States,USA,True,818000,0,818000,:us:
+28,Portugal,PRT,True,691671,0,691671,:pt:
 29,Estonia,EST,True,431500,161812,593312,:ee:
 30,Cyprus,CYP,False,457289,75567,532856,:cy:
 31,Jersey,JEY,False,401876,0,401876,:je:
