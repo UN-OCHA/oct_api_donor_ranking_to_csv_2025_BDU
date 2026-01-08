@@ -31,7 +31,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 30,Cyprus,CYP,False,457289,75567,532856,:cy:
 31,Jersey,JEY,False,401876,0,401876,:je:
 32,Greece,GRC,False,347357,0,347357,:gr:
-33,Malta,MLT,False,121949,0,121949,:mt:
+33,Malta,MLT,False,122081,0,122081,:mt:
 34,Bulgaria,BGR,False,93148,0,93148,:bg:
 35,Monaco,MCO,False,0,58754,58754,:mc:
 36,Private Contributions,PRI_CON,False,0,50000,50000,
