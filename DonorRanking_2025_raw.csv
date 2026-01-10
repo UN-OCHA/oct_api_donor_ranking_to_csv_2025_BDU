@@ -7,13 +7,13 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 6,"Denmark","DNK",true,0,9779237,9779237
 7,"Qatar","QAT",true,1142577,8000000,9142577
 8,"Netherlands","NLD",true,0,8027523,8027523
-9,"Canada","CAN",true,5856184,1443389,7299573
-10,"Belgium","BEL",true,0,6590909,6590909
-11,"Australia","AUS",true,908262,5617140,6525402
+9,"Australia","AUS",true,2242485,5617140,7859625
+10,"Canada","CAN",true,5856184,1443389,7299573
+11,"Belgium","BEL",true,0,6590909,6590909
 12,"Italy","ITA",true,6453476,0,6453476
 13,"Ireland","IRL",true,439547,5926724,6366271
 14,"Switzerland","CHE",true,424019,5518764,5942783
-15,"Korea, Republic of","KOR",true,1000000,4309024,5309024
+15,"Korea, Republic of","KOR",true,1000000,4478731,5478731
 16,"Poland","POL",true,3179472,0,3179472
 17,"New Zealand","NZL",true,0,2985342,2985342
 18,"Spain","ESP",true,2837685,0,2837685
@@ -28,7 +28,7 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 27,"Turkey","TUR",true,390000,500000,890000
 28,"United States","USA",true,818000,0,818000
 29,"Estonia","EST",true,431500,161812,593312
-30,"Cyprus","CYP",false,457289,75567,532856
+30,"Cyprus","CYP",false,456364,75567,531931
 31,"Jersey","JEY",false,401876,0,401876
 32,"Greece","GRC",false,347357,0,347357
 33,"Malta","MLT",false,122081,0,122081
