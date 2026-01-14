@@ -25,16 +25,17 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total
 24,"Luxembourg","LUX",true,0,1716913,1716913
 25,"Iceland","ISL",true,0,1254150,1254150
 26,"Portugal","PRT",true,973363,0,973363
-27,"Turkey","TUR",true,390000,500000,890000
-28,"United States","USA",true,818000,0,818000
-29,"Estonia","EST",true,431500,161812,593312
-30,"Cyprus","CYP",false,456364,75567,531931
-31,"Jersey","JEY",false,401876,0,401876
-32,"Greece","GRC",false,347357,0,347357
-33,"Malta","MLT",false,122081,0,122081
-34,"Bulgaria","BGR",false,93148,0,93148
-35,"Monaco","MCO",false,0,58754,58754
-36,"Private Contributions","PRI_CON",false,0,50000,50000
-36,"Singapore","SGP",false,0,50000,50000
-38,"Latvia","LVA",false,39903,0,39903
-39,"Philippines","PHL",false,10000,0,10000
+27,"Russian Federation","RUS",true,0,900000,900000
+28,"Turkey","TUR",true,390000,500000,890000
+29,"United States","USA",true,818000,0,818000
+30,"Estonia","EST",true,431500,161812,593312
+31,"Cyprus","CYP",false,456364,75567,531931
+32,"Jersey","JEY",false,401876,0,401876
+33,"Greece","GRC",false,347357,0,347357
+34,"Malta","MLT",false,122081,0,122081
+35,"Bulgaria","BGR",false,93148,0,93148
+36,"Monaco","MCO",false,0,58754,58754
+37,"Singapore","SGP",false,0,50000,50000
+37,"Private Contributions","PRI_CON",false,0,50000,50000
+39,"Latvia","LVA",false,39903,0,39903
+40,"Philippines","PHL",false,10000,0,10000

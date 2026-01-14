@@ -25,16 +25,17 @@ Rank,DonorName,CountryCode,IsOdsg,Earmarked,UnEarmarked,Total,FlagCode
 24,Luxembourg,LUX,True,0,1716913,1716913,:lu:
 25,Iceland,ISL,True,0,1254150,1254150,:is:
 26,Portugal,PRT,True,973363,0,973363,:pt:
-27,Turkey,TUR,True,390000,500000,890000,:tr:
-28,United States,USA,True,818000,0,818000,:us:
-29,Estonia,EST,True,431500,161812,593312,:ee:
-30,Cyprus,CYP,False,456364,75567,531931,:cy:
-31,Jersey,JEY,False,401876,0,401876,:je:
-32,Greece,GRC,False,347357,0,347357,:gr:
-33,Malta,MLT,False,122081,0,122081,:mt:
-34,Bulgaria,BGR,False,93148,0,93148,:bg:
-35,Monaco,MCO,False,0,58754,58754,:mc:
-36,Private Contributions,PRI_CON,False,0,50000,50000,
-36,Singapore,SGP,False,0,50000,50000,:sg:
-38,Latvia,LVA,False,39903,0,39903,:lv:
-39,Philippines,PHL,False,10000,0,10000,:ph:
+27,Russian Federation,RUS,True,0,900000,900000,:ru:
+28,Turkey,TUR,True,390000,500000,890000,:tr:
+29,United States,USA,True,818000,0,818000,:us:
+30,Estonia,EST,True,431500,161812,593312,:ee:
+31,Cyprus,CYP,False,456364,75567,531931,:cy:
+32,Jersey,JEY,False,401876,0,401876,:je:
+33,Greece,GRC,False,347357,0,347357,:gr:
+34,Malta,MLT,False,122081,0,122081,:mt:
+35,Bulgaria,BGR,False,93148,0,93148,:bg:
+36,Monaco,MCO,False,0,58754,58754,:mc:
+37,Singapore,SGP,False,0,50000,50000,:sg:
+37,Private Contributions,PRI_CON,False,0,50000,50000,
+39,Latvia,LVA,False,39903,0,39903,:lv:
+40,Philippines,PHL,False,10000,0,10000,:ph:
